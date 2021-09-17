@@ -18,6 +18,8 @@ Para el desarrollo de esta actividad necesitamos algunas herramientas básicas c
 }
 ```
 5. Selector de ID
-#id-etiqueta{
+```
+#idEtiqueta{
   width:100px;
 }
+```
